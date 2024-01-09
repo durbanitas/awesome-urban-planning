@@ -5,11 +5,12 @@ A curated list of awesome [Your Topic] resources, tools, and projects on GitHub.
 ## Contents
 
 - [Introduction](#introduction)
-- [Articles](#articles)
-- [Tools](#tools)
-- [Libraries](#libraries)
-- [Projects](#projects)
-- [Community](#community)
+- [Geographic Information System (GIS)](#geographic-information-system-(gis))
+- [Computer Aided Design (CAD)](#computer-aided-design-(cad))
+- [Quantitative Analysis Tools](#quantitative-analysis-tools)
+- [Content Design Tools](#content-design-tools)
+- [Content Design Ressources](#content-design-ressources)
+- [Writing and Presentation Tools](#writing-and-presentation-tools)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,35 +18,54 @@ A curated list of awesome [Your Topic] resources, tools, and projects on GitHub.
 
 Brief introduction about the awesome list, why it's valuable, and how it can help the community.
 
-## Articles
+## Geographic Information System (GIS)
 
-- [Title of Article 1](link-to-article-1)
-- [Title of Article 2](link-to-article-2)
-- ...
+- [QGIS (Quantum GIS)]()
+- [GRASS GIS](https://grass.osgeo.org/) - GRASS GIS is a powerful open-source GIS software package that offers advanced geospatial analysis capabilities.
+- [MapServer](https://mapserver.org/) - MapServer is an open-source development environment for building spatially-enabled internet applications.
+- [GeoServer](https://geoserver.org/) - GeoServer is an open-source server software that allows users to share, process, and edit geospatial data. It supports standards such as WMS, WFS, and WCS.
+- [OpenLayers](https://openlayers.org/) - OpenLayers is an open-source JavaScript library for displaying interactive maps on web pages.
+- [Whitebox GAT (Geospatial Analysis Toolbox)](https://www.whiteboxgeo.com/) - Whitebox GAT is an open-source geospatial analysis platform with a focus on environmental modeling and analysis.
 
-## Tools
+## Computer Aided Design (CAD)
 
-- [Tool Name 1](link-to-tool-1) - Brief description.
-- [Tool Name 2](link-to-tool-2) - Brief description.
-- ...
+- [SketchUp](https://www.sketchup.com/) - SketchUp Free is a web-based version that allows users to create 3D models.
+- [FreeCAD](https://www.freecadweb.org/) - FreeCAD is a parametric 3D CAD modeler that is open-source and designed for creating real-life objects. It's suitable for a range of uses, including product design and mechanical engineering.
+- [Blender](https://www.blender.org/) - Blender is a versatile open-source 3D content creation suite that includes powerful modeling, sculpting, and rendering capabilities. While it's widely known for animation and graphics, it also supports CAD-like modeling.
+- [LibreCAD](https://librecad.org/) - LibreCAD is an open-source 2D CAD application that is focused on creating technical drawings. It's suitable for architectural and mechanical design.
+- [TinkerCAD](https://www.tinkercad.com/) -TinkerCAD is an online CAD tool that is beginner-friendly and offers a simple interface for creating 3D models. It's often used for educational purposes.
+- [OpenSCAD](https://www.openscad.org/) - OpenSCAD is a script-based 3D CAD modeler that allows users to create models through programming. It's particularly suitable for parametric design.
+- [BRL-CAD](https://brlcad.org/) - BRL-CAD is an open-source solid modeling system that has been in development for many years. It is particularly geared towards engineering and scientific applications.
 
-## Libraries
+## Quantitative Analysis Tools
 
-- [Library Name 1](link-to-library-1) - Brief description.
-- [Library Name 2](link-to-library-2) - Brief description.
-- ...
+- Excel
+- IBM SPSS
+- RStudio
+- Power Bi
 
-## Projects
+## Content Design Tools
 
-- [Project Name 1](link-to-project-1) - Brief description.
-- [Project Name 2](link-to-project-2) - Brief description.
-- ...
+- Adobe Photoshop
+- Figma
+- InkScape
+- GIMP
 
-## Community
+## Content Design Ressources
 
-- [Community Name 1](link-to-community-1) - Description of the community.
-- [Community Name 2](link-to-community-2) - Description of the community.
-- ...
+- https://www.mrcutout.com/
+- https://thenounproject.com/
+- https://www.textures.com/
+
+## Writing and Presentation Tools
+
+- Prezi
+- PowerPoint
+- Adobe Indesign
+- tableau
+- LibreOffice
+- Word
+- Google Docs (collaborative tool)
 
 ## Contributing
 
