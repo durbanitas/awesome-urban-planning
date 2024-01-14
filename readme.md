@@ -23,6 +23,7 @@ A curated list of awesome urban planning resources, tools, and projects that are
 - [Community](#community)
 	- [Competitions](#competitions)
 	- [Blogs and Online Communities](#blogs-and-online-communities)
+	- [Networks](#networks)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -62,8 +63,13 @@ Collection of awesome open source and free tools and resources to use as a urban
 ### Nonprofit Organizations
 
 - [American Planning Association (APA)](https://www.planning.org/) - Organization for urban planners in the United States.
+- [Congress for the New Urbanism (CNU)](https://www.cnu.org/) - CNU is an organization that promotes the principles of New Urbanism, which emphasizes sustainable and walkable neighborhoods.
+- [ICLEI - Local Governments for Sustainability](https://iclei.org/) - ICLEI is a global network of local governments committed to sustainability.
+- [Institute of Transportation Engineers (ITE)](https://www.ite.org/) - ITE focuses on transportation planning and engineering, playing an important role in the planning of urban transportation systems.
 - [International Society of City and Regional Planners (ISOCARP)](https://isocarp.org/) - The International Society of City and Regional Planners (ISOCARP) is a non-governmental global association of professional city and regional planners.
 - [Morgenstadt](https://www.morgenstadt.de/en.html) - Frauenhofers project to make cities future-proof.
+- [Project for Public Spaces (PPS)](https://www.pps.org/) - PPS is dedicated to creating and sustaining public places that build communities.
+- [The Urban Institute](https://www.urban.org/) - The Urban Institute conducts research on various urban issues, including housing, transportation, and community development.
 - [Urban Land Institute (ULI)](https://uli.org/) - Global nonprofit research and education organization.
 
 [⬆ back to top](#awesome-urban-planning-list)
@@ -71,6 +77,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 ## Online Mapping Tools
 
 - [Google Earth](https://earth.google.com/) - 3D representation of the Earth.
+- [OpenTopoMap](https://opentopomap.org) - OpenTopoMap is a free topographic map generated from OpenStreetMap data and SRTM elevation data.
 
 ## Spatial Design and Analysis Software
 
@@ -151,6 +158,16 @@ Collection of awesome open source and free tools and resources to use as a urban
 [⬆ back to top](#awesome-urban-planning-list)
 
 ### Blogs and Online Communities
+
+- [ArchDaily](https://www.archdaily.com/) - Popular online platform that features architecture news, projects, products, events, and competitions from around the world.
+- [Inhabitat](https://inhabitat.com/) - Inhabitat focuses on sustainable design, architecture, and environmental news, showcasing innovative and eco-friendly projects.
+- [PlannersWeb](https://plannersweb.com/) - PlannersWeb is an online resource for planning commissioners, providing articles and resources on planning and land use issues.
+
+[⬆ back to top](#awesome-urban-planning-list)
+
+### Networks
+
+- [UNESCO - Creative Cities Network](https://en.unesco.org/creative-cities/home) - UNESCO Creative Cities Network promotes cooperation among cities that recognize creativity as a strategic factor for sustainable urban development.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
