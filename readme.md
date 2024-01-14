@@ -40,7 +40,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Singapore Government Publications](https://www.gov.sg/resources) -  Provides access to a variety of resources, including publications related to urban planning and development in Singapore.
 - [Statistics Canada](https://www.statcan.gc.ca/) -  Provides statistical information on various aspects of Canadian life, including demographics, housing, and urban development.
 - [UN-Habitat](https://unhabitat.org/)  - Focuses on sustainable urban development and provides reports, publications, and resources related to global urban challenges.
-- [USA.gov - United States Publications](https://www.usa.gov/) - Oficial web portal of the U.S. government.
+- [USA.gov - United States Publications](https://www.usa.gov/) - Official web portal of the U.S. government.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
