@@ -58,6 +58,11 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Academic Journals and Publications
 
+- [Cities](https://www.sciencedirect.com/journal/cities) - The International Journal of Urban Policy and Planning.
+- [Journal of the American Planning Association (JAPA)](https://www.planning.org/japa/) - JAPA is a prestigious, peer-reviewed journal that covers a wide range of topics in urban and regional planning.
+- [Journal of Urban Planning and Development (JUPD)](https://ascelibrary.org/journal/jupddm) - JUPD is a journal that focuses on the planning and development of urban areas.
+- [Urban Studies Journal](https://journals.sagepub.com/home/usj) - Urban Studies is an interdisciplinary journal covering a broad spectrum of urban issues.
+
 [⬆ back to top](#awesome-urban-planning-list)
 
 ### Nonprofit Organizations
@@ -68,6 +73,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Institute of Transportation Engineers (ITE)](https://www.ite.org/) - ITE focuses on transportation planning and engineering, playing an important role in the planning of urban transportation systems.
 - [International Society of City and Regional Planners (ISOCARP)](https://isocarp.org/) - The International Society of City and Regional Planners (ISOCARP) is a non-governmental global association of professional city and regional planners.
 - [Morgenstadt](https://www.morgenstadt.de/en.html) - Frauenhofers project to make cities future-proof.
+- [Next City](https://nextcity.org/) - Next City is a nonprofit organization that covers urban affairs, including urban planning, economic development, and social issues.
 - [Project for Public Spaces (PPS)](https://www.pps.org/) - PPS is dedicated to creating and sustaining public places that build communities.
 - [The Urban Institute](https://www.urban.org/) - The Urban Institute conducts research on various urban issues, including housing, transportation, and community development.
 - [Urban Land Institute (ULI)](https://uli.org/) - Global nonprofit research and education organization.
@@ -105,6 +111,9 @@ Collection of awesome open source and free tools and resources to use as a urban
 [⬆ back to top](#awesome-urban-planning-list)
 
 ### Building Information Modelling (BIM)
+
+- [BlenderBIM Add-on](https://blenderbim.org/) - An add-on for detailed, and data-rich OpenBIM with Blender.
+- [IFCOpenShell](https://ifcopenshell.org/) - IFCOpenShell is an open-source library that supports the IFC (Industry Foundation Classes) file format commonly used in BIM.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
@@ -160,13 +169,16 @@ Collection of awesome open source and free tools and resources to use as a urban
 ### Blogs and Online Communities
 
 - [ArchDaily](https://www.archdaily.com/) - Popular online platform that features architecture news, projects, products, events, and competitions from around the world.
+- [City Monitor](https://citymonitor.ai/) - City Monitor provides analysis and insights on urban issues, including city governance, infrastructure, and economic development.
 - [Inhabitat](https://inhabitat.com/) - Inhabitat focuses on sustainable design, architecture, and environmental news, showcasing innovative and eco-friendly projects.
 - [PlannersWeb](https://plannersweb.com/) - PlannersWeb is an online resource for planning commissioners, providing articles and resources on planning and land use issues.
+- [TheCityFix](https://thecityfix.com/) - The City Fix is a blog by WRI Ross Center for Sustainable Cities, offering insights and solutions for creating sustainable and equitable urban areas.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
 ### Networks
 
+- [Planetizen](https://www.planetizen.com/) - Planetizen is a planning and development network that offers news, trends, and resources for urban planners and professionals.
 - [UNESCO - Creative Cities Network](https://en.unesco.org/creative-cities/home) - UNESCO Creative Cities Network promotes cooperation among cities that recognize creativity as a strategic factor for sustainable urban development.
 
 [⬆ back to top](#awesome-urban-planning-list)
