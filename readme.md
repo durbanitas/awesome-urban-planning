@@ -48,7 +48,8 @@ Collection of awesome open source and free tools and resources to use as a urban
 ### Open Data Plattforms
 
 - [European Union Open Data Portal](https://data.europa.eu/)  - The official portal for European data.
-- [Google Dataset Search](https://datasetsearch.research.google.com/) -  Search engine for datasets. 
+- [Google Dataset Search](https://datasetsearch.research.google.com/) -  Search engine for datasets.
+- [Our World in Data](https://ourworldindata.org/) - Our World in Data (OWID) is a scientific online publication that focuses on large global problems.
 - [UNdata](https://data.un.org/) - UNdata is an Internet search engine, retrieving data series from statistical databases.
 - [U.S. Census](https://data.census.gov/) - Learn about America's People, Places and Economy.
 - [U.S. Government's Open Data](https://www.data.gov/) - Resource for accessing datasets and publications from various U.S. government agencies.
@@ -102,6 +103,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 - [Blender](https://www.blender.org/) - Blender is a versatile open-source 3D content creation suite that includes powerful modeling, sculpting, and rendering capabilities. While it's widely known for animation and graphics, it also supports CAD-like modeling.
 - [BRL-CAD](https://brlcad.org/) - BRL-CAD is an open-source solid modeling system that has been in development for many years. It is particularly geared towards engineering and scientific applications.
+- [Cadmapper](https://cadmapper.com/) - Get transformed CAD files from around the world.
 - [FreeCAD](https://www.freecadweb.org/) - FreeCAD is a parametric 3D CAD modeler that is open-source and designed for creating real-life objects. It's suitable for a range of uses, including product design and mechanical engineering.
 - [LibreCAD](https://librecad.org/) - LibreCAD is an open-source 2D CAD application that is focused on creating technical drawings. It's suitable for architectural and mechanical design.
 - [OpenSCAD](https://www.openscad.org/) - OpenSCAD is a script-based 3D CAD modeler that allows users to create models through programming. It's particularly suitable for parametric design.
@@ -153,6 +155,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 - [LibreOffice](https://www.libreoffice.org/) - Office suite.
 - [Google Slides](https://docs.google.com/presentation/create) - Cloud-based presentation program.
+- [LimeSurvey](https://www.limesurvey.org/) - Simple and anonymous online survey tool.
 - [Prezi](https://prezi.com/) - Online presentation design platform.
 
 [⬆ back to top](#awesome-urban-planning-list)
