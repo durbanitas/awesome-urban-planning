@@ -132,6 +132,8 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Transportation Planning Software
 
+- [A/B Street](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software.
+
 [⬆ back to top](#awesome-urban-planning-list)
 
 ## Content Design
