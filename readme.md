@@ -15,7 +15,9 @@ A curated list of awesome urban planning resources, tools, and projects that are
 	- [Computer Aided Design (CAD)](#computer-aided-design-cad)
 	- [Building Information Modelling (BIM)](#building-information-modelling-bim)
 	- [Quantitative Analysis Tools](#quantitative-analysis-tools)
-	- [Transportation Planning Software](#transportation-planning-software)
+- [Simulations](#simulations)
+  - [Meteorological Models](#meteorological-models)
+  - [Transportation Planning Software](#transportation-planning-software)
 - [Content Design](#content-design)
 	- [Graphic Design Tools](#graphic-design-tools)
 	- [Ressources](#content-design-ressources)
@@ -76,6 +78,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [International Society of City and Regional Planners (ISOCARP)](https://isocarp.org/) - The International Society of City and Regional Planners (ISOCARP) is a non-governmental global association of professional city and regional planners.
 - [Morgenstadt](https://www.morgenstadt.de/en.html) - Frauenhofers project to make cities future-proof.
 - [Next City](https://nextcity.org/) - Next City is a nonprofit organization that covers urban affairs, including urban planning, economic development, and social issues.
+- [Open Geospatial Consortium (OGC)](https://github.com/opengeospatial) - The Open Geospatial Consortium (OGC) is an international organization that sets standards for geospatial content, location-based services, sensor web, Internet of Things, and GIS data processing and sharing.
 - [OpenPlans](https://www.openplans.org/) - OpenPlans, a non-profit founded in 1999, works to create livable streets in New York City. Using tactics like grassroots advocacy, policy initiatives, and targeted journalism, the organization promotes structural reforms in city government for better neighborhoods and urban living.
 - [Project for Public Spaces (PPS)](https://www.pps.org/) - PPS is dedicated to creating and sustaining public places that build communities.
 - [The Urban Institute](https://www.urban.org/) - The Urban Institute conducts research on various urban issues, including housing, transportation, and community development.
@@ -127,6 +130,15 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Knime](https://www.knime.com/) - KNIME is an open-source data analytics, reporting, and integration platform.
 - [Microsoft Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) - Power BI is a business analytics service by Microsoft that enables users to visualize and share insights from their data.
 - [RStudio](https://www.r-project.org/) - RStudio is an integrated development environment (IDE) for the R programming language. It provides a powerful interface for R users to develop scripts, perform data analysis, and create visualizations.
+
+[⬆ back to top](#awesome-urban-planning-list)
+
+## Simulations
+
+### Meteorological Models
+
+- [OpenFAST](https://github.com/OpenFAST/openfast) - NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation.
+- [PALM Model System](https://gitlab.palm-model.org/releases/palm_model_system) - Advanced and modern meteorological model for turbulence-resolving large-eddy simulations of atmospheric and oceanic boundary-layer flows.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
