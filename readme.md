@@ -25,6 +25,7 @@ A curated list of awesome urban planning resources, tools, and projects that are
 - [Community](#community)
 	- [Competitions](#competitions)
 	- [Blogs and Online Communities](#blogs-and-online-communities)
+	- [Magazines](#magazines)
 	- [Networks](#networks)
 - [Contributing](#contributing)
 - [License](#license)
@@ -201,6 +202,13 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [UNESCO - Creative Cities Network](https://en.unesco.org/creative-cities/home) - UNESCO Creative Cities Network promotes cooperation among cities that recognize creativity as a strategic factor for sustainable urban development.
 
 [⬆ back to top](#awesome-urban-planning-list)
+
+### Magazines
+
+- [Architects' Journal](https://www.architectsjournal.co.uk/) - UK-based publication that provides news, analysis, and insights on architecture and the built environment.
+- [Architectural Digest](https://www.architecturaldigest.com/) - International design magazine covering architecture, interior design, and lifestyle.
+- [Bauwelt](https://bauwelt.de/) - Bauwelt is a German architecture magazine published fortnightly.
+- [Dezeen](https://www.dezeen.com/) - Design and architecture magazine that covers a wide range of topics, including architecture, interiors, and urban planning.
 
 ## Contributing
 
