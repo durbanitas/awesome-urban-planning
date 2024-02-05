@@ -153,6 +153,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Graphic Design Tools
 
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - Generate harmonized color palettes.
 - [Krita](https://krita.org/en/) - Krita is a free and open source painting program.
 - [InkScape](https://inkscape.org/) - Inkscape is vector graphics software.
 - [GIMP](https://www.gimp.org/) - Free and open-source image editor.
@@ -162,6 +163,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Content Design Ressources
 
+- [Font Squirrel](https://www.fontsquirrel.com/matcherator) - Font identifier.
 - [MrCutOut](https://www.mrcutout.com/) - Cutout library for architects and 3D graphic designers.
 - [The Noun Project](https://thenounproject.com/) - Diverse collection of free icons and stock photos.
 - [Textures](https://www.textures.com/) - Collection of images, materials and 3D assets.
@@ -183,6 +185,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 - [competitionline](https://www.competitionline.com/de) - Competitions and calls for tenders in Germany.
 - [Europan](https://www.europan.de/europan/en/) - Architectural and urban planning ideas competition.
+- [World Architecture Community Awards (WA Awards)](https://worldarchitecture.org/) - International architecture competition.  
 
 [⬆ back to top](#awesome-urban-planning-list)
 
@@ -209,6 +212,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Architectural Digest](https://www.architecturaldigest.com/) - International design magazine covering architecture, interior design, and lifestyle.
 - [Bauwelt](https://bauwelt.de/) - Bauwelt is a German architecture magazine published fortnightly.
 - [Dezeen](https://www.dezeen.com/) - Design and architecture magazine that covers a wide range of topics, including architecture, interiors, and urban planning.
+- [The Plan](https://www.theplan.it/eng/magazine) - Italian based architecture and design magazine.
 
 ## Contributing
 
