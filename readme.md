@@ -91,6 +91,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 - [Google Earth](https://earth.google.com/) - 3D representation of the Earth.
 - [OpenTopoMap](https://opentopomap.org) - OpenTopoMap is a free topographic map generated from OpenStreetMap data and SRTM elevation data.
+- [Stadia Maps](https://github.com/stadiamaps/) - Stadia Maps offers a variety of ready-made map styles that don't require customization.
 
 ## Spatial Design and Analysis Software
 
