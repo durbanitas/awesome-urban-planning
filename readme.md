@@ -223,6 +223,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Jobs
 
+- [BauNetz Jobs](https://www.baunetz-maps.de/jobs/karte) - Interactive map of the Germany-wide BauNetz job market.
 - [GEOjobs](https://www.geobranchen.de/geojobs/) - German-language job market in the field of geography.
 - [UNJobs](https://unjobs.org/themes/urban-planning) - UNJobs Association of Geneva, is a non-profit Swiss organisation.
 
