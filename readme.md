@@ -216,12 +216,14 @@ Collection of awesome open source and free tools and resources to use as a urban
 ### Networks
 
 - [Planetizen](https://www.planetizen.com/) - Planetizen is a planning and development network that offers news, trends, and resources for urban planners and professionals.
+- [Planners Network](https://www.plannersnetwork.org) - Planners Network is a coordinated network of individual members and of chapters based in cities, regions, and campuses around North America.
 - [UNESCO - Creative Cities Network](https://en.unesco.org/creative-cities/home) - UNESCO Creative Cities Network promotes cooperation among cities that recognize creativity as a strategic factor for sustainable urban development.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
 ### Jobs
 
+- [GEOjobs](https://www.geobranchen.de/geojobs/) - German-language job market in the field of geography.
 - [UNJobs](https://unjobs.org/themes/urban-planning) - UNJobs Association of Geneva, is a non-profit Swiss organisation.
 
 [⬆ back to top](#awesome-urban-planning-list)
