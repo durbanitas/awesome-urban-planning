@@ -27,6 +27,7 @@ A curated list of awesome urban planning resources, tools, and projects that are
 	- [Blogs and Online Communities](#blogs-and-online-communities)
 	- [Magazines](#magazines)
 	- [Networks](#networks)
+	- [Jobs](#jobs)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -200,11 +201,6 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 [⬆ back to top](#awesome-urban-planning-list)
 
-### Networks
-
-- [Planetizen](https://www.planetizen.com/) - Planetizen is a planning and development network that offers news, trends, and resources for urban planners and professionals.
-- [UNESCO - Creative Cities Network](https://en.unesco.org/creative-cities/home) - UNESCO Creative Cities Network promotes cooperation among cities that recognize creativity as a strategic factor for sustainable urban development.
-
 [⬆ back to top](#awesome-urban-planning-list)
 
 ### Magazines
@@ -214,6 +210,21 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Bauwelt](https://bauwelt.de/) - Bauwelt is a German architecture magazine published fortnightly.
 - [Dezeen](https://www.dezeen.com/) - Design and architecture magazine that covers a wide range of topics, including architecture, interiors, and urban planning.
 - [The Plan](https://www.theplan.it/eng/magazine) - Italian based architecture and design magazine.
+
+[⬆ back to top](#awesome-urban-planning-list)
+
+### Networks
+
+- [Planetizen](https://www.planetizen.com/) - Planetizen is a planning and development network that offers news, trends, and resources for urban planners and professionals.
+- [UNESCO - Creative Cities Network](https://en.unesco.org/creative-cities/home) - UNESCO Creative Cities Network promotes cooperation among cities that recognize creativity as a strategic factor for sustainable urban development.
+
+[⬆ back to top](#awesome-urban-planning-list)
+
+### Jobs
+
+- [UNJobs](https://unjobs.org/themes/urban-planning) - UNJobs Association of Geneva, is a non-profit Swiss organisation.
+
+[⬆ back to top](#awesome-urban-planning-list)
 
 ## Contributing
 
