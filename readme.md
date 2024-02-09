@@ -94,6 +94,8 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [OpenTopoMap](https://opentopomap.org) - OpenTopoMap is a free topographic map generated from OpenStreetMap data and SRTM elevation data.
 - [Stadia Maps](https://github.com/stadiamaps/) - Stadia Maps offers a variety of ready-made map styles that don't require customization.
 
+[⬆ back to top](#awesome-urban-planning-list)
+
 ## Spatial Design and Analysis Software
 
 ### Geographic Information System (GIS)
@@ -198,8 +200,6 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Inhabitat](https://inhabitat.com/) - Inhabitat focuses on sustainable design, architecture, and environmental news, showcasing innovative and eco-friendly projects.
 - [PlannersWeb](https://plannersweb.com/) - PlannersWeb is an online resource for planning commissioners, providing articles and resources on planning and land use issues.
 - [TheCityFix](https://thecityfix.com/) - The City Fix is a blog by WRI Ross Center for Sustainable Cities, offering insights and solutions for creating sustainable and equitable urban areas.
-
-[⬆ back to top](#awesome-urban-planning-list)
 
 [⬆ back to top](#awesome-urban-planning-list)
 
