@@ -22,6 +22,7 @@ A curated list of awesome urban planning resources, tools, and projects that are
 	- [Graphic Design Tools](#graphic-design-tools)
 	- [Ressources](#content-design-ressources)
 	- [Presentation Tools](#presentation-tools)
+- [Global Data Repositories](#global-data-repositories)
 - [Community](#community)
 	- [Competitions](#competitions)
 	- [Blogs and Online Communities](#blogs-and-online-communities)
@@ -180,6 +181,12 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Google Slides](https://docs.google.com/presentation/create) - Cloud-based presentation program.
 - [LimeSurvey](https://www.limesurvey.org/) - Simple and anonymous online survey tool.
 - [Prezi](https://prezi.com/) - Online presentation design platform.
+
+[⬆ back to top](#awesome-urban-planning-list)
+
+## Global Data Repositories
+
+- [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database) - Full Database of city state country available in JSON, SQL, PSQL, XML, YAML & CSV format.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
