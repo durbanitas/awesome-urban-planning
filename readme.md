@@ -215,6 +215,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Architects' Journal](https://www.architectsjournal.co.uk/) - UK-based publication that provides news, analysis, and insights on architecture and the built environment.
 - [Architectural Digest](https://www.architecturaldigest.com/) - International design magazine covering architecture, interior design, and lifestyle.
 - [Bauwelt](https://bauwelt.de/) - Bauwelt is a German architecture magazine published fortnightly.
+- [City Journal](https://www.city-journal.org/) - US-based urban-policy magazine.
 - [Dezeen](https://www.dezeen.com/) - Design and architecture magazine that covers a wide range of topics, including architecture, interiors, and urban planning.
 - [The Plan](https://www.theplan.it/eng/magazine) - Italian based architecture and design magazine.
 
