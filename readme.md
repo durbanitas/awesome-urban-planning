@@ -203,6 +203,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Blogs and Online Communities
 
+- [Atlas Obscura](https://www.atlasobscura.com) - Guidebook and tour-guide to the world's most wondrous places. Travel tips, articles, strange facts and unique events.
 - [ArchDaily](https://www.archdaily.com/) - Popular online platform that features architecture news, projects, products, events, and competitions from around the world.
 - [City Monitor](https://citymonitor.ai/) - City Monitor provides analysis and insights on urban issues, including city governance, infrastructure, and economic development.
 - [CityLab](https://www.bloomberg.com/citylab) - Today's top stories, ideas and solutions, from cities around the world provided by Bloomberg.
