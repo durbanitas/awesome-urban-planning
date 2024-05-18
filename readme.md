@@ -210,6 +210,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [CityLab](https://www.bloomberg.com/citylab) - Today's top stories, ideas and solutions, from cities around the world provided by Bloomberg.
 - [Inhabitat](https://inhabitat.com/) - Inhabitat focuses on sustainable design, architecture, and environmental news, showcasing innovative and eco-friendly projects.
 - [PlannersWeb](https://plannersweb.com/) - PlannersWeb is an online resource for planning commissioners, providing articles and resources on planning and land use issues.
+- [r/Urban planning](https://www.reddit.com/r/urbanplanning/) - Reddit's /urbanplanning thread is a community dedicated to discussions, insights, and news related to urban design, development, and policy.
 - [TheCityFix](https://thecityfix.com/) - The City Fix is a blog by WRI Ross Center for Sustainable Cities, offering insights and solutions for creating sustainable and equitable urban areas.
 
 [⬆ back to top](#awesome-urban-planning-list)
