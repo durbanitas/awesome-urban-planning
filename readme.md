@@ -52,6 +52,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Open Data Plattforms
 
+- [City-Data](https://www.city-data.com/) - Detailed, informative profiles for every city in the United States.
 - [European Union Open Data Portal](https://data.europa.eu/)  - The official portal for European data.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) -  Search engine for datasets.
 - [Our World in Data](https://ourworldindata.org/) - Our World in Data (OWID) is a scientific online publication that focuses on large global problems.
