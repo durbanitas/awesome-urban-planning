@@ -239,6 +239,8 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Planetizen](https://www.planetizen.com/) - Planetizen is a planning and development network that offers news, trends, and resources for urban planners and professionals.
 - [Planners Network](https://www.plannersnetwork.org) - Planners Network is a coordinated network of individual members and of chapters based in cities, regions, and campuses around North America.
 - [UNESCO - Creative Cities Network](https://en.unesco.org/creative-cities/home) - UNESCO Creative Cities Network promotes cooperation among cities that recognize creativity as a strategic factor for sustainable urban development.
+- [Urban Future](https://urban-future.org) - Europe's leading event for sustainable cities.
+	- [CityChangers](https://citychangers.org) - Community-centred content platform for urban change-makers, created by Urban Future.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
