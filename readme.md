@@ -110,7 +110,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ### Geographic Information System (GIS)
 
-. [Cesium](https://cesium.com/platform/) - Cesium is the foundational open platform for creating powerful 3D geospatial applications.
+- [Cesium](https://cesium.com/platform/) - Cesium is the foundational open platform for creating powerful 3D geospatial applications.
 - [GeoServer](https://geoserver.org/) - GeoServer is an open-source server software that allows users to share, process, and edit geospatial data. It supports standards such as WMS, WFS, and WCS.
 - [GRASS GIS](https://grass.osgeo.org/) - GRASS GIS is a powerful open-source GIS software package that offers advanced geospatial analysis capabilities.
 - [MapServer](https://mapserver.org/) - MapServer is an open-source development environment for building spatially-enabled internet applications.
