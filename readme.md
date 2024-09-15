@@ -6,7 +6,7 @@ A curated list of awesome urban planning resources, tools, and projects that are
 
 - [Research](#research)
 	- [Governement Publications](#governement-publications)
-	- [Open Data Plattforms](#open-data-platforms)
+	- [Open Data Platforms](#open-data-platforms)
 	- [Academic Journals and Publications](#academic-journals-and-publications)
 	- [Nonprofit Organizations](#nonprofit-organizations)
 - [Online Mapping Tools](#online-mapping-tools)
@@ -50,7 +50,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 [⬆ back to top](#awesome-urban-planning-list)
 
-### Open Data Plattforms
+### Open Data Platforms
 
 - [City-Data](https://www.city-data.com/) - Detailed, informative profiles for every city in the United States.
 - [European Union Open Data Portal](https://data.europa.eu/)  - The official portal for European data.
@@ -103,6 +103,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [ReliefViz](https://reliefviz.com/) - Create shaded relief maps.
 - [ShadeMap](https://shademap.app) - Global simulation of mountain, building and tree shadows for any date and time.
 - [Stadia Maps](https://github.com/stadiamaps/) - Stadia Maps offers a variety of ready-made map styles that don't require customization.
+- [WaterwayMap](https://waterwaymap.org) - A unique, topological, view on rivers & waterways in OpenStreetMap, showing how they are connected.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
