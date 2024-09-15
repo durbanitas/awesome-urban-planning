@@ -217,6 +217,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [ArchDaily](https://www.archdaily.com/) - Popular online platform that features architecture news, projects, products, events, and competitions from around the world.
 - [City Monitor](https://citymonitor.ai/) - City Monitor provides analysis and insights on urban issues, including city governance, infrastructure, and economic development.
 - [CityLab](https://www.bloomberg.com/citylab) - Today's top stories, ideas and solutions, from cities around the world provided by Bloomberg.
+- [CivicSearch](https://civicsearch.org) - CivicSearch is a search and discovery tool for everything that is said in local government meetings, texts, and laws across hundreds of cities and towns in the U.S. and Canada.
 - [Inhabitat](https://inhabitat.com/) - Inhabitat focuses on sustainable design, architecture, and environmental news, showcasing innovative and eco-friendly projects.
 - [PlannersWeb](https://plannersweb.com/) - PlannersWeb is an online resource for planning commissioners, providing articles and resources on planning and land use issues.
 - [r/Urban planning](https://www.reddit.com/r/urbanplanning/) - Reddit's /urbanplanning thread is a community dedicated to discussions, insights, and news related to urban design, development, and policy.
