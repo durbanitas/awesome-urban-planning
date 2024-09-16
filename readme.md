@@ -98,6 +98,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Close](https://close.city/) - Close is an interactive map that shows travel times to the furthest selected amenities.
 - [Google Earth](https://earth.google.com/) - 3D representation of the Earth.
 - [OpenTopoMap](https://opentopomap.org) - OpenTopoMap is a free topographic map generated from OpenStreetMap data and SRTM elevation data.
+- [Organic Maps](https://organicmaps.app/) - Offline Hike, Bike, Trails and Navigation based on OpenStreetMap data.
 - [Pelias](https://pelias.io/) - A modular, open-source search engine for our world.
 - [ProtoMaps](https://protomaps.com/) - Protomaps is an open source map of the world, deployable as a single static file on cloud storage.
 - [ReliefViz](https://reliefviz.com/) - Create shaded relief maps.
