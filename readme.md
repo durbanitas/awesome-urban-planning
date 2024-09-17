@@ -106,6 +106,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [ReliefViz](https://reliefviz.com/) - Create shaded relief maps.
 - [ShadeMap](https://shademap.app) - Global simulation of mountain, building and tree shadows for any date and time.
 - [Stadia Maps](https://github.com/stadiamaps/) - Stadia Maps offers a variety of ready-made map styles that don't require customization.
+- [TinyWorldMap](https://github.com/tinyworldmap/tiny-world-map) - A tiny world map for offline-first and low-bandwidth web apps.
 - [WaterwayMap](https://waterwaymap.org) - A unique, topological, view on rivers & waterways in OpenStreetMap, showing how they are connected.
 
 [⬆ back to top](#awesome-urban-planning-list)
