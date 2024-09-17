@@ -71,6 +71,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [LSE - The London School of Economics](https://www.lse.ac.uk/cities) - An international center focused on research, education, and activities exploring the social, spatial, and environmental challenges of 21st-century cities.
 - [MIT Senseable City Laboratory Database](https://senseabledb.mit.edu/) - The MIT Senseable City Laboratory, part of MIT's City Design and Development group in the Department of Urban Studies and Planning, collaborates with the MIT Media Lab. It explores how digital technologies are transforming urban life and their impact on cities. Discover the works in their database.
 - [Nature Cities](https://www.nature.com/natcities/) - Nature Cities publishes research and opinions on urban issues.
+- [Places Journal](https://placesjournal.org/) - Places Journal is a nonprofit publication dedicated to exploring architecture, landscape, and urbanism.
 - [Urban Studies Journal](https://journals.sagepub.com/home/usj) - Urban Studies is an interdisciplinary journal covering a broad spectrum of urban issues.
 
 [⬆ back to top](#awesome-urban-planning-list)
