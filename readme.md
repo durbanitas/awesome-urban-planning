@@ -102,6 +102,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [MapComplete](https://mapcomplete.org/) - Maps about various topics which you can contribute to.
 - [OpenTopoMap](https://opentopomap.org) - OpenTopoMap is a free topographic map generated from OpenStreetMap data and SRTM elevation data.
 - [Organic Maps](https://organicmaps.app/) - Offline Hike, Bike, Trails and Navigation based on OpenStreetMap data.
+- [OsmAnd](https://osmand.net/) - Offline Maps and Navigation.
 - [Pelias](https://pelias.io/) - A modular, open-source search engine for our world.
 - [ProtoMaps](https://protomaps.com/) - Protomaps is an open source map of the world, deployable as a single static file on cloud storage.
 - [ReliefViz](https://reliefviz.com/) - Create shaded relief maps.
