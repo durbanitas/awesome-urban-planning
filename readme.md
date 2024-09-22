@@ -95,6 +95,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 ## Online Mapping Tools
 
+- [Basemap.de](https://basemap.de/) - Mapping platform that provides access official maps for Germany.
 - [City Roads](https://anvaka.github.io/city-roads/?) - Draw all roads in a city at once.
 - [Close](https://close.city/) - Close is an interactive map that shows travel times to the furthest selected amenities.
 - [geoland.at](https://www.geoland.at/) - The Geoportal of the nine Austrian Provinces.
