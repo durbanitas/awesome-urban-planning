@@ -206,6 +206,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 ## Global Data Repositories
 
 - [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database) - Full Database of city state country available in JSON, SQL, PSQL, XML, YAML & CSV format.
+- [Geodatenzentrum](https://gdz.bkg.bund.de/) - Geospatial data and services, mostly related to Germany's national and regional mapping and geospatial infrastructure.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
