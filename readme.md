@@ -101,6 +101,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [geoland.at](https://www.geoland.at/) - The Geoportal of the nine Austrian Provinces.
 - [Google Earth](https://earth.google.com/) - 3D representation of the Earth.
 - [MapComplete](https://mapcomplete.org/) - Maps about various topics which you can contribute to.
+- [OpenFreeMap](https://openfreemap.org/) - OpenFreeMap is an open-source, community-driven mapping platform.
 - [OpenTopoMap](https://opentopomap.org) - OpenTopoMap is a free topographic map generated from OpenStreetMap data and SRTM elevation data.
 - [Organic Maps](https://organicmaps.app/) - Offline Hike, Bike, Trails and Navigation based on OpenStreetMap data.
 - [OsmAnd](https://osmand.net/) - Offline Maps and Navigation.
