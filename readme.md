@@ -209,6 +209,7 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 - [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database) - Full Database of city state country available in JSON, SQL, PSQL, XML, YAML & CSV format.
 - [Geodatenzentrum](https://gdz.bkg.bund.de/) - Geospatial data and services, mostly related to Germany's national and regional mapping and geospatial infrastructure.
+- [GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) - Worldwide building footprints derived from satellite imagery.
 - [Google Open Buildings](https://sites.research.google/gr/open-buildings/#explore) - A dataset of building footprints covering Africa, South Asia, South-East Asia, Latin America and the Caribbean.
 
 [⬆ back to top](#awesome-urban-planning-list)
