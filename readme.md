@@ -175,6 +175,8 @@ Collection of awesome open source and free tools and resources to use as a urban
 
 - [A/B Street](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software.
 - [RoadDetection](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery.
+- [Open Trip Planner](https://www.opentripplanner.org/) - Multi-modal trip planner with GUI options.
+- [Conveyal](https://conveyal.com/learn) - Multi-modal route and accessibility analysis.
 
 [⬆ back to top](#awesome-urban-planning-list)
 
@@ -205,6 +207,10 @@ Collection of awesome open source and free tools and resources to use as a urban
 - [Google Slides](https://docs.google.com/presentation/create) - Cloud-based presentation program.
 - [LimeSurvey](https://www.limesurvey.org/) - Simple and anonymous online survey tool.
 - [Prezi](https://prezi.com/) - Online presentation design platform.
+
+### Conceptual Design Tools
+- [Streetmix](https://streetmix.net/) - Customise street-sections for visualization.
+- [3DStreet](https://www.3dstreet.com/) - Powerful browser based 3D editor for street and urban visualization.  
 
 [⬆ back to top](#awesome-urban-planning-list)
 
